@@ -1,0 +1,102 @@
+{
+  "site": {
+    "logo": "APF Partners",
+    "domain": "apfpartners.it",
+    "piva": "11073611219",
+    "cf": "11073611219",
+    "founded": "28/04/2026",
+    "status_label": "Operativi"
+  },
+  "hero": {
+    "badge": "APF Partners S.R.L. — Napoli · EU · World",
+    "headline1": "Distribuiamo",
+    "typewords": ["Brand.", "Mercati.", "Connessioni.", "Futuro."],
+    "headline3": "Costruiamo Mercati.",
+    "subtext": "La piattaforma B2B integrata per distribuire brand, generare vendite e scalare in Europa — alimentata da tecnologia, dati e persone.",
+    "cta1_text": "Scopri i Servizi",
+    "cta1_href": "#servizi",
+    "cta2_text": "Chi Siamo",
+    "cta2_href": "#chi-siamo",
+    "stat1_val": "9+",
+    "stat1_lbl": "Servizi",
+    "stat2_val": "EU+",
+    "stat2_lbl": "Connessioni",
+    "stat3_val": "360°",
+    "stat3_lbl": "Coverage",
+    "stat4_val": "2026",
+    "stat4_lbl": "Attiva dal 28/04"
+  },
+  "ticker": [
+    "Brand Distribution — Italia & EU",
+    "AI Blog — 1 post ogni 3 giorni",
+    "P.IVA 11073611219 — Attiva 28/04/2026",
+    "Call Center — Sales & Customer Care",
+    "Import/Export — Fornitori EU & Extra-EU",
+    "IT Consulting — Software & Automazioni",
+    "Lead Generation — B2B & B2C",
+    "apfpartners.it — info@apfpartners.it"
+  ],
+  "services": [
+    { "id": "dist", "num": "01", "name": "Brand Distribution", "desc": "Rappresentanza e distribuzione brand Food, Cosmesi, Sicurezza in Italia e EU.", "tag": "Core", "tag_color": "blue", "detail": "Rappresentanza esclusiva e non-esclusiva di brand Food, Cosmesi e Sicurezza. Rete di buyer, GDO e partner distributivi attiva.", "bullets": ["Accordi distribuzione EU e Italia", "Gestione buyer e retailer per categoria", "Supporto contrattuale e legale", "Reporting vendite e KPI mensili", "Network HoReCa e GDO nazionali"] },
+    { "id": "brand", "num": "02", "name": "Brand Management", "desc": "Posizionamento, identity, strategia di offerta e penetrazione di mercato.", "tag": "Strategy", "tag_color": "cyan", "detail": "Strategia completa: dall'analisi di mercato al posizionamento, dalla creazione dell'offerta al presidio digitale.", "bullets": ["Analisi competitor e demand", "Sviluppo offerta e pricing", "Brand identity e guideline", "Content strategy e piano editoriale", "Validazione e ottimizzazione continua"] },
+    { "id": "adv", "num": "03", "name": "Advertising & Web", "desc": "Campagne Meta/Google, siti, landing page e sistema ad-offerta ottimizzato.", "tag": "Digital", "tag_color": "blue", "detail": "Campagne performance Meta e Google, siti ad alta conversione, sistema ad-offerta e landing page per il mercato italiano.", "bullets": ["Meta Ads (Facebook, Instagram, Reels)", "Google Ads (Search, Display, Shopping)", "Siti web e landing page ottimizzate", "Struttura awareness→retargeting→lookalike", "A/B test creatività e copy"] },
+    { "id": "import", "num": "04", "name": "Import / Export EU", "desc": "Connessioni fornitori EU e Extra-UE, documentazione doganale e compliance.", "tag": "Global", "tag_color": "gold", "detail": "Connessione con fornitori europei ed extra-UE, documentazione doganale, compliance e supporto agli agenti.", "bullets": ["Sourcing fornitori EU e Extra-EU", "Documentazione doganale", "Compliance normativa", "Supporto agenti commerciali", "Analisi costi e margini"] },
+    { "id": "lead", "num": "05", "name": "Lead Gen & Sales", "desc": "Lead generation B2B/B2C, pipeline commerciale, ingrosso e dettaglio.", "tag": "Revenue", "tag_color": "green", "detail": "Pipeline commerciali complete per B2B e B2C: lead generation digitale, call sales, qualifica prospect e CRM.", "bullets": ["Lead gen digitale (Meta, Google, LinkedIn)", "Outbound call sales e script", "CRM setup e gestione pipeline", "Canale ingrosso e dettaglio", "KPI commerciali settimanali"] },
+    { "id": "it", "num": "06", "name": "IT & Software Dev", "desc": "Consulenza IT, sviluppo software, automazioni e architetture digitali PMI.", "tag": "Tech", "tag_color": "cyan", "detail": "Consulenza tecnologica e sviluppo software su misura: web app, CRM, e-commerce e automazioni.", "bullets": ["Consulenza IT strategica", "Sviluppo web app e software custom", "Setup e-commerce (Shopify, WooCommerce)", "Automazioni e integrazioni API", "Cybersecurity e GDPR"] },
+    { "id": "log", "num": "07", "name": "Consulenza Logistica", "desc": "Supply chain, magazzini, partner trasporto nazionali e internazionali.", "tag": "Ops", "tag_color": "gold", "detail": "Supply chain, magazzini, trasporti ottimizzati per ridurre costi e aumentare l'efficienza.", "bullets": ["Analisi e ottimizzazione supply chain", "Selezione partner logistici", "Gestione magazzino e picking", "Tracking spedizioni e last-mile", "Riduzione costi e KPI SLA"] },
+    { "id": "biz", "num": "08", "name": "Business Consulting", "desc": "Analisi aziendale, business plan, ristrutturazione processi e crescita.", "tag": "Strategy", "tag_color": "blue", "detail": "Supporto strategico: analisi aziendale, business plan, ristrutturazione processi e percorso di crescita.", "bullets": ["Analisi SWOT e business model", "Business plan e financial forecast", "Ristrutturazione processi", "Supporto a funding e investor", "Coaching management"] },
+    { "id": "call", "num": "09", "name": "Call Sales & Outbound", "desc": "Team outbound dedicato, script personalizzati, CRM e customer care.", "tag": "Sales", "tag_color": "teal", "detail": "Team outbound per vendita telefonica: script personalizzati, CRM reporting e customer care.", "bullets": ["Operatori sales outbound qualificati", "Script personalizzati per prodotto", "Customer care e gestione reclami", "CRM (HubSpot, Salesforce, custom)", "KPI: conversion rate, AHT, NPS"] }
+  ],
+  "sectors": [
+    { "letter": "F", "name": "Food & Beverage", "desc": "Brand alimentari per GDO, HoReCa e canali e-commerce. Rete nazionale attiva.", "tags": ["GDO", "HoReCa"], "img_label": "Food & GDO / HoReCa", "img": "" },
+    { "letter": "C", "name": "Cosmesi & Cura", "desc": "Import/export e brand management beauty, skincare e personal care premium.", "tags": ["Beauty", "Premium"], "img_label": "Beauty / Skincare", "img": "" },
+    { "letter": "S", "name": "Sicurezza", "desc": "Brand sicurezza, sorveglianza e protezione aziendale fisica e digitale.", "tags": ["B2B", "Enterprise"], "img_label": "Security", "img": "" },
+    { "letter": "T", "name": "Tech & Digitale", "desc": "Software, IT consulting e trasformazione digitale per PMI e startup.", "tags": ["Dev", "SaaS"], "img_label": "Tech / Digital", "img": "" }
+  ],
+  "blog": [
+    { "id": 1, "category": "AI Marketing", "category_color": "green", "date": "12 Mag 2026", "title": "Come l'AI sta rivoluzionando il marketing food in Italia: strategie per brand che vogliono crescere nel 2026", "excerpt": "Dall'automazione dei contenuti alla personalizzazione delle campagne Meta: come i brand food italiani possono sfruttare l'intelligenza artificiale.", "read_time": "8 min", "featured": true, "img": "", "img_label": "AI Marketing Food", "slug": "ai-marketing-food-italia-2026" },
+    { "id": 2, "category": "Espansione", "category_color": "gold", "date": "9 Mag 2026", "title": "Export Food: i 5 mercati EU con maggiore potenziale per brand italiani nel 2026", "excerpt": "Germania, Francia, Spagna, Polonia e Paesi Bassi: analisi canali distributivi e opportunità.", "read_time": "5 min", "featured": false, "img": "", "img_label": "Export EU", "slug": "export-food-mercati-eu-2026" },
+    { "id": 3, "category": "Lead Gen", "category_color": "blue", "date": "6 Mag 2026", "title": "Lead Generation B2B nel settore cosmesi: script, funnel e ROAS realistici", "excerpt": "Struttura di campagna testata per beauty brand con budget €5k/mese e obiettivo acquisizione retailer.", "read_time": "6 min", "featured": false, "img": "", "img_label": "Lead Gen Cosmesi", "slug": "lead-generation-cosmesi-b2b" },
+    { "id": 4, "category": "Sales", "category_color": "teal", "date": "3 Mag 2026", "title": "Call Center Sales 2026: KPI, script e automazioni per chiudere di più", "excerpt": "I benchmark aggiornati per team outbound in Italia e gli script che convertono di più.", "read_time": "4 min", "featured": false, "img": "", "img_label": "Call Center", "slug": "call-center-sales-2026" },
+    { "id": 5, "category": "AI Tech", "category_color": "cyan", "date": "30 Apr 2026", "title": "Automazione con AI: come ridurre il 60% del lavoro ripetitivo nella tua PMI", "excerpt": "Workflow, strumenti e casi d'uso reali per PMI italiane che vogliono automatizzare.", "read_time": "5 min", "featured": false, "img": "", "img_label": "AI Automation", "slug": "automazione-ai-pmi-italia" },
+    { "id": 6, "category": "Brand", "category_color": "blue", "date": "27 Apr 2026", "title": "Brand Strategy nel food: come costruire una proposta di valore unica per la GDO", "excerpt": "Framework pratico per posizionarsi nei canali GDO italiani con un brand food emergente.", "read_time": "7 min", "featured": false, "img": "", "img_label": "Brand Strategy Food", "slug": "brand-strategy-food-gdo" }
+  ],
+  "about": {
+    "headline": "APF Partners:<br>la <em>piattaforma</em><br>per il tuo mercato",
+    "p1": "APF Partners S.R.L. nasce per rispondere a un'esigenza concreta: le aziende hanno bisogno di un partner unico che si muova con fluidità tra distribuzione fisica, marketing digitale, tecnologia e logistica.",
+    "p2": "Operiamo con fornitori europei ed extra-UE, costruiamo reti commerciali personalizzate e affianchiamo i brand in ogni fase del loro sviluppo — dal primo contatto col mercato italiano alla scalabilità internazionale.",
+    "checks": ["Partner unico, visione globale", "Rete fornitori EU e Extra-EU attiva", "Blog AI automatizzato — 1 post ogni 3 giorni", "Dal brand al mercato in tempi rapidi"],
+    "img": "",
+    "img_label": "Team · Founder · Ufficio"
+  },
+  "careers": [
+    { "id": 1, "title": "Sales Account Manager", "dept": "Commerciale · Lead Gen", "cat": "comm", "contract": "Full Time", "location": "Crispano / Remote", "is_cc": false },
+    { "id": 2, "title": "Brand Manager Food & Cosmesi", "dept": "Marketing · Strategy", "cat": "mkt", "contract": "Full Time", "location": "Crispano / Remote", "is_cc": false },
+    { "id": 3, "title": "IT Consultant / Sviluppatore", "dept": "Tech · Software Dev", "cat": "it", "contract": "Full / Freelance", "location": "Remote", "is_cc": false },
+    { "id": 4, "title": "Agente Import/Export EU", "dept": "Distribuzione · Int'l", "cat": "dist", "contract": "Agente P.IVA", "location": "Italia / EU", "is_cc": false },
+    { "id": 5, "title": "Call Center — Customer Care", "dept": "Assistenza Clienti", "cat": "cc", "contract": "Full / Part Time", "location": "Crispano / Remote", "is_cc": true },
+    { "id": 6, "title": "Call Center — Sales Outbound", "dept": "Vendita Telefonica", "cat": "cc", "contract": "Full / Part Time", "location": "Crispano / Remote", "is_cc": true },
+    { "id": 7, "title": "Team Leader Call Center", "dept": "Supervisione Team", "cat": "cc", "contract": "Full Time", "location": "Crispano", "is_cc": true }
+  ],
+  "contact": {
+    "email_general": "info@apfpartners.it",
+    "email_sales": "sales@apfpartners.it",
+    "email_careers": "careers@apfpartners.it",
+    "address": "Via Cappuccini 60, 80020 Crispano (NA)",
+    "phone": "",
+    "whatsapp": "",
+    "linkedin": "",
+    "instagram": "",
+    "maps_embed": "",
+    "headline": "Parliamo del<br><em>tuo progetto</em>",
+    "subtext": "Brand distribution, campagne, IT, logistica o una candidatura — siamo il partner giusto."
+  },
+  "partners": [
+    { "name": "Partner 1", "logo": "", "url": "#" },
+    { "name": "Partner 2", "logo": "", "url": "#" },
+    { "name": "Partner 3", "logo": "", "url": "#" },
+    { "name": "Partner 4", "logo": "", "url": "#" },
+    { "name": "Partner 5", "logo": "", "url": "#" },
+    { "name": "Partner 6", "logo": "", "url": "#" }
+  ]
+}
